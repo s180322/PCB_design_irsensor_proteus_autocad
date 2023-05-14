@@ -5,6 +5,9 @@ IR sensor is an electronic device, that emits the light in order to sense some o
 I designed a pcb for irsensor using proteus software.In this repo I attached the following files 
 
 1)Bill Of Materials 
+
 2)Project Planning 
+
 3)Basic Schematic
+
 4)PCB Layout
